@@ -26,7 +26,9 @@ Fiz uma tabela com a descrição de cada componente, seu papel principal no dom�
 ---
 ## 2 - Liste pelo menos 5 requisitos não funcionais deste sistema justificando a necessidade deste requisito assim como a sua relação ou necessidade dentro da arquitetura SOA
 
-### Requisitos Não Funcionais (RNF) do Sistema de Reservas
+### Resposta:
+Abaixo está uma tabela com 5 requisitos não funcionais (NFRs) que são importantes pro sistema de reservas de passagens aéreas, pensando em problemas que podem acontecer e como a arquitetura ajuda a evitar esses problemas.
+
 
 | NFR                                                                      | Por que importa                                                                      | Como a arquitetura ajuda                                                                                                                                            |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
