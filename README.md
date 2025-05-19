@@ -5,7 +5,7 @@
 A seguir, está a arquitetura SOA que pensei para o sistema de reservas de passagens aéreas. As linhas tracejadas representam comunicação com APIs externas ao sistema, como a API de geolocalização e a API de pagamentos (Stripe). As linhas contínuas representam comunicação entre os componentes do sistema.
 Fiz uma tabela com a descrição de cada componente, seu papel principal no domínio e a justificativa de importância no contexto do sistema.
 <div align="center">
-<img src="./Arquitetura SOA.png" alt="Arquitetura SOA" /> <br>
+<img src="./Arquitetura SOA - Semana 04.png" alt="Arquitetura SOA" /> <br>
 <sup>Fonte: Material produzido pelos autores (2025).</sup>
 </div>
 
